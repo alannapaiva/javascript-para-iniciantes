@@ -1,4 +1,4 @@
-<h1 align="center"> JavaScript for Beginner </h1>
+<h1 align="center"> JavaScript for Beginner <img src="https://img.icons8.com/color/452/javascript.png" width="40px"> </h1>
 <h4 align="center"> 
 	📖  Studies in progress...  📖
 </h4>
